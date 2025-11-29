@@ -14,7 +14,7 @@ export const Footer: React.FC = () => {
               <span className="text-white font-bold text-lg">STF Mongolia</span>
             </div>
             <p className="text-slate-400 text-sm leading-relaxed mb-6">
-              Шинжлэх ухаан, технологийн сан нь Монгол Улсын шинжлэх ухааны хөгжлийг дэмжих, санхүүжүүлэх төрийн байгууллага юм.
+              Үндэсний Шинжлэх ухаан, технологийн сан нь Монгол Улсын шинжлэх ухааны хөгжлийг дэмжих, санхүүжүүлэх төрийн байгууллага юм.
             </p>
             <div className="flex space-x-4">
               <a href="#" className="text-slate-400 hover:text-white transition-colors"><Facebook size={20} /></a>
@@ -66,7 +66,7 @@ export const Footer: React.FC = () => {
         </div>
 
         <div className="border-t border-slate-800 mt-12 pt-8 text-center text-xs text-slate-500">
-          <p>&copy; {new Date().getFullYear()} Шинжлэх ухаан, технологийн сан. Бүх эрх хуулиар хамгаалагдсан.</p>
+          <p>&copy; {new Date().getFullYear()} Үндэсний Шинжлэх ухаан, технологийн сан. Бүх эрх хуулиар хамгаалагдсан.</p>
         </div>
       </div>
     </footer>

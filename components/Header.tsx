@@ -36,7 +36,7 @@ export const Header: React.FC = () => {
             S
           </div>
           <div className={`flex flex-col ${isScrolled ? 'text-slate-800' : 'text-slate-800 lg:text-white'}`}>
-            <span className="font-bold text-sm md:text-base leading-tight">ШИНЖЛЭХ УХААН,</span>
+            <span className="font-bold text-sm md:text-base leading-tight">ҮНДЭСНИЙ ШИНЖЛЭХ УХААН,</span>
             <span className="text-xs md:text-sm leading-tight opacity-90">ТЕХНОЛОГИЙН САН</span>
           </div>
         </div>

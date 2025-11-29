@@ -11,7 +11,7 @@ export const AIAssistant: React.FC = () => {
     {
       id: 'welcome',
       role: 'model',
-      text: 'Сайн байна уу? Би Шинжлэх ухаан, технологийн сангийн виртуал туслах байна. Танд юугаар туслах вэ?',
+      text: 'Сайн байна уу? Би Үндэсний Шинжлэх ухаан, технологийн сангийн виртуал туслах байна. Танд юугаар туслах вэ?',
     },
   ]);
   const messagesEndRef = useRef<HTMLDivElement>(null);
